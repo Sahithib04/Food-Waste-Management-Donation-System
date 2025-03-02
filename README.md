@@ -23,30 +23,4 @@ Backend: Java (Servlets, JSP)
 Database: MySQL
 
 Frontend: HTML, CSS, JavaScript
-Setup & Installation
 
-Clone the Repository:
-
-git clone https://github.com/your-username/food-waste-management.git
-
-Import into IDE:
-
-Open Eclipse/IntelliJ
-
-Import as a Maven/Java EE project
-
-Setup MySQL Database:
-
-Create a database named food_waste_db
-
-Run the SQL scripts from the /sql/ folder
-
-Configure Database Connection:
-
-Update db.properties with your MySQL credentials
-
-Run the Project:
-
-Deploy on Tomcat Server
-
-Open http://localhost:8080/food-waste-management
