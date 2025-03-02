@@ -1,5 +1,7 @@
 Food Waste Management & Donation System
+
 https://poetic-melba-358eb7.netlify.app/
+
 📌 Description
 
 A Java-based platform that connects restaurants and individuals with excess food to NGOs and people in need. This system aims to minimize food wastage and ensure surplus food reaches those who need it the most.
